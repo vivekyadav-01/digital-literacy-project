@@ -56,6 +56,5 @@ I am just getting started on my journey in tech — curious, motivated, and eage
 https://www.linkedin.com/in/vivekyadav036
 -  Email:
 vivek25bce10796@vitbhopalac.in
--  Kaggle:
--  https://www.kaggle.com/vivekyadav036
+-  Kaggle:https://www.kaggle.com/vivekyadav036
 ---
